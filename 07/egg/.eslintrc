@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "quotes": [1, "double"],
+    "strict": 0
+  }
+}
